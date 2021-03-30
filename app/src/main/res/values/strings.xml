@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Zaenal Anzarry</string>
+    <string name="nama">Zaenal Anzarry</string>
+    <string name="nim">10118023</string>
+    <string name="kelas">IF-1/S1/VI</string>
+    <string name="jk">Laki - Laki</string>
+    <string name="ttl">Bandung, 02 Desember 1999</string>
+    <string name="alamat">Jl. Cimerang RT 02 RW 05 Desa Cimerang Kec. Padalarang, KBB.</string>
+    <string name="goldar">AB</string>
+    <string name="makananfav">Nasi Goreng</string>
+    <string name="minumanfav">Lemon Tea</string>
+    <string name="hobi">Travelling</string>
+    <string name="lagufav">Mungkin Nanti - NOAH</string>
+    <string name="filmfav">Doraemon</string>
+    <string name="pekerjaan">Pekerjaan yang berhubungan dengan IT</string>
+
+
+</resources>
